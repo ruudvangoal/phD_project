@@ -1,0 +1,144 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+vendor/
+packages/
+
+# Build outputs
+dist/
+build/
+out/
+target/
+bin/
+obj/
+*.class
+*.jar
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+*.dump
+
+# Environment and config files
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+config.local.*
+*.local.json
+*.local.yaml
+
+# Package manager lock files (uncomment if needed)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+# composer.lock
+# Gemfile.lock
+# poetry.lock
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+override.tf
+override.tf.json
+terraform.rc
+terraform.tfstate.lock.info
+
+# Docker
+*.pid
+.dockerignore
+Dockerfile.dev
+
+# Certificates
+*.pem
+*.crt
+*.key
+*.p12
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+*.cache
+.cache/
+
+# Archives (compiled source)
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.pkg
+*.deb
+*.rpm
+
+# Debug files
+*.map
+*.tsbuildinfo
+*.nuxt
+.nuxt/
+.output/
+
+# Misc
+*.bak
+*.old
+*.orig
+*.rej
+*.swo
+*.swp
+*.spl
+error_log
+access_log
